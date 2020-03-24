@@ -1,0 +1,110 @@
+{
+    "code": "success",
+    "msg": "操作成功",
+    "data": {
+        "id": 20,
+        "name": "鲜花",
+        "subTags": [
+            {
+                "id": 1,
+                "tagName": "Reflower/花点时间",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/3403661296/O1CN01flGlKP1LRbri6P381_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 11,
+                "tagName": "flowerplus/花+",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/89365102/TB2gmKOzhWYBuNjy1zkXXXGGpXa_!!89365102-0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 21,
+                "tagName": "天堂鸟",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/747049301/O1CN01Ut0teK2IZuOHXY7br_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 31,
+                "tagName": "lovetime",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2943021236/O1CN01X9wbU91L087r2Hs4e_!!2943021236.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 41,
+                "tagName": "挚爱此生",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/2096572539/O1CN01d5CJn31UcuCNeOnHj_!!2096572539.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 51,
+                "tagName": "馨长存",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/3069247602/O1CN015Sr9RJ261lToht7Kk_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 61,
+                "tagName": "唯·爱鲜花",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01k6kXwF1XGrzPx2lBT_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 71,
+                "tagName": "蜜心",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/3563068145/O1CN01WqoH0h2A2SXmu2orn_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 81,
+                "tagName": "幽客玉品",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/2672433762/O1CN01bUJyin1df2aSLP3or_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 91,
+                "tagName": "芊芊细语",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/2347240995/O1CN01JWhf0F1JDkft2ABvH_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 101,
+                "tagName": "梦馨鲜花",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/3336087276/O1CN011Akwht23cSMVTEJCE_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 111,
+                "tagName": "艾斯维娜",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/2765046183/O1CN01uyJsOt1vXrSUqPQ5O_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 121,
+                "tagName": "IAIROSE/为爱唯你",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/3360129506/O1CN01HuRs902K5nad1cmYG_!!3360129506-0-pixelsss.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 131,
+                "tagName": "爱里",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/TB1.qyhJFXXXXXBXVXXXXXXXXXX_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 141,
+                "tagName": "寻梦合伙人",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/2774041383/O1CN01Yqj1Bf1M5SLV6TvBJ_!!2-item_pic.png_400x400q90.jpg"
+            },
+            {
+                "id": 151,
+                "tagName": "Sweat/蜜儿",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i4/299221915/O1CN01gCDbiV1Q172j03mHH_!!299221915.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 161,
+                "tagName": "白云花庄",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/2786829657/TB1.JfZkcyYBuNkSnfoXXcWgVXa_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 171,
+                "tagName": "中秋节",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/3077671836/O1CN01qJhyuF1PQvla1gifB_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 181,
+                "tagName": "白色情人节",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/709453867/O1CN01bl3DBk1eR8AYOnFgu_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 191,
+                "tagName": "父亲节",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/3179815745/O1CN01Lju2by1sJFyToRAYg_!!0-item_pic.jpg_400x400q90.jpg"
+            }
+        ]
+    }
+}

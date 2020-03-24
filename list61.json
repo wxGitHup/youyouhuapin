@@ -1,0 +1,668 @@
+{
+    "code" : "success",
+    "data" :     {
+        "endRow" : 8,
+        "hasNextPage" : 0,
+        "hasPreviousPage" : 0,
+        "isFirstPage" : 1,
+        "isLastPage" : 1,
+        "navigateFirstPage" : 1,
+        "navigateLastPage" : 1,
+        "navigatePages" : 8,
+        "navigatepageNums" : 1,
+        "nextPage" : 0,
+        "pageNum" : 1,
+        "pageSize" : 10,
+        "pages" : 1,
+        "prePage" : 0,
+        "size" : 8,
+        "startRow" : 1,
+        "total" : 8,
+        "list" :         [
+            {
+                "id": 61,
+                "name": "向日葵花束生日配送鲜花速递同城花店成都北京上海杭州全国送花",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/1744362897/O1CN01k6kXwF1XGrzPx2lBT_!!0-item_pic.jpg_460x460Q90.jpg_.webp",
+                "price": "99.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01k6kXwF1XGrzPx2lBT_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01AtmeLh1XGrzGdD1Vo_!!1744362897.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01h5tm011XGrzPpbLiS_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/1744362897/O1CN0111nQeU1XGrzMq5cDG_!!1744362897.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01MUadZ81XGrzKMkRmt_!!0-item_pic.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/1744362897/O1CN01ZIm50Z1XGru8w88lD_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01BuFMz91XGru97Ghl9_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01m0ObCF1XGru8hzVeE_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/1744362897/O1CN01gIPaht1XGru8LE0KU_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/1744362897/O1CN01BOQXvz1XGru6R3Pim_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/1744362897/O1CN01Wk18Ha1XGru9etAg9_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/1744362897/O1CN01dCCCXO1XGru7BsuZh_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/1744362897/O1CN01GA0jrA1XGrtuTxEmO_!!1744362897.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 62,
+                "name": "深圳鲜花速递同城粉黛玫瑰创意花束广州北京花店送花全国基地配送",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/1744362897/O1CN01KDpbTb1XGrzAtLAf8_!!0-item_pic.jpg_460x460Q90.jpg_.webp",
+                "price": "109.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01KDpbTb1XGrzAtLAf8_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01eBV6cl1XGryyEFDIY_!!1744362897.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/1744362897/O1CN01pzrmoi1XGrzUtpPpw_!!1744362897.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01C77h3u1XGrzS4FGTY_!!1744362897.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/1744362897/O1CN01LI0Gyg1XGrzQUafWF_!!1744362897.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/1744362897/O1CN01NcP8Tt1XGrwe02kIA_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/1744362897/O1CN01gIPaht1XGru8LE0KU_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/1744362897/O1CN01BOQXvz1XGru6R3Pim_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/1744362897/O1CN01dCCCXO1XGru7BsuZh_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01SAFxUs1XGrwfsUrS8_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01kfotfN1XGru3NJmXL_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01tyXQce1XGru1NUGiU_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/1744362897/O1CN01eGpo9z1XGru21txYN_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01SAFxUs1XGrwfsUrS8_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/1744362897/O1CN01m3j0m61XGrwo2zSy7_!!1744362897.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i1/1744362897/O1CN01a0KbgJ1XGrwnviJ9E_!!1744362897.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 63,
+                "name": "心形红玫瑰礼盒鲜花速递郑州同城沈阳石家庄青岛南京武汉花店送花",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/110009471/O1CN01bXniGk2JpliElftqm_!!110009471.jpg_460x460Q90.jpg_.webp",
+                "price": "235.20",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd1.alicdn.com/imgextra/i2/110009471/O1CN01bXniGk2JpliElftqm_!!110009471.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/110009471/O1CN01hPvsZr2JpliCR6N75_!!110009471.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/110009471/O1CN01ZgQvx72JpliFHlIIm_!!110009471.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/110009471/O1CN01IB7tgA2Jpli92CmMA_!!110009471.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/110009471/O1CN01nC62tA2JpliDztvXh_!!110009471.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/110009471/O1CN01XS7IwI2JpliCRKjOz_!!110009471.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 64,
+                "name": "99朵红玫瑰花束鲜花速递同城常州徐州淮安泰州宿迁盐城店生日送花",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/1874744294/O1CN01YJ1vix1hahI6GdHjC_!!1874744294.jpg_460x460Q90.jpg_.webp",
+                "price": "158.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/1874744294/O1CN01YJ1vix1hahI6GdHjC_!!1874744294.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/1874744294/O1CN01uhnVrx1hahI9stRXs_!!1874744294.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd3.alicdn.com/imgextra/i3/1874744294/O1CN01qmBJcS1hahI6GTx7w_!!1874744294.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/1874744294/O1CN01xvFHyB1hahICLUZX2_!!1874744294.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/1874744294/O1CN0140xfC41hahI9KzWdf_!!1874744294.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/1874744294/O1CN01eP9I7s1hahF0AxxS2_!!1874744294.png"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/1874744294/O1CN01lW2gn31hahEwibw8Z_!!1874744294.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/1874744294/O1CN01QOLjI71hahEwick0K_!!1874744294.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/1874744294/O1CN01WMW8kT1hahEuBLr6d_!!1874744294.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/1874744294/O1CN01KkYOlX1hahExtEFN0_!!1874744294.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/1874744294/O1CN01x5WWnp1hahEvQmyhZ_!!1874744294.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/1874744294/O1CN01o7QxCE1hahEvQniPl_!!1874744294.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/1874744294/O1CN01VhhQyh1hahEzXgW6p_!!1874744294.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 65,
+                "name": "红玫瑰鲜花速递成都重庆苏州锡常州郑州石家庄全国花店同城送花",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/110009471/O1CN011ujlZj2JpliA2Fmmv_!!110009471.jpg_460x460Q90.jpg_.webp",
+                "price": "123.20",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd1.alicdn.com/imgextra/i4/110009471/O1CN011ujlZj2JpliA2Fmmv_!!110009471.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/110009471/O1CN01l3xXOV2JpliFIxc7C_!!110009471.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/110009471/O1CN012cyTBP2JpliEmrso6_!!110009471.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/110009471/O1CN01Hvf6An2JpliAI8mkn_!!110009471.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/110009471/O1CN01fLaB5x2JpliCBY6Kl_!!110009471.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/110009471/O1CN01up6Vnr2JpliFsaPGe_!!110009471.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/110009471/O1CN0192ghUA2JpliBfZ1W9_!!110009471.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/110009471/O1CN01LaPOpi2JpliEmsQ2y_!!110009471.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/110009471/O1CN012tMyLG2JpliCBWDvj_!!110009471.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/110009471/O1CN010iTHct2JpliEmrkT3_!!110009471.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/110009471/O1CN01GLIKmg2JpliEmskpH_!!110009471.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/110009471/O1CN01anJi5i2JpliCBVcVI_!!110009471.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 66,
+                "name": "玫瑰花鲜花云南基地直发生日家庭用花",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2617920728/O1CN01euEYDQ1HFSvNn2bPF_!!2617920728.jpg_460x460Q90.jpg_.webp",
+                "price": "28.60",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd4.alicdn.com/imgextra/i1/2617920728/O1CN01euEYDQ1HFSvNn2bPF_!!2617920728.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/2617920728/O1CN01HEFtLr1HFSvRWD0ew_!!2617920728.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/2617920728/O1CN01ePdZVm1HFSvNn34dV_!!2617920728.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd3.alicdn.com/imgextra/i3/2617920728/O1CN01xFimdc1HFSvFS0usX_!!2617920728.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://gd3.alicdn.com/imgextra/i3/2617920728/O1CN01P8uq6i1HFSvL5bFrQ_!!2617920728.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/2617920728/O1CN01yVYYvI1HFSvNDrfLp_!!2617920728.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/2617920728/O1CN0196Ubie1HFSvL5eoQf_!!2617920728.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/2617920728/O1CN01OREwca1HFSvPVaIrc_!!2617920728.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/2617920728/O1CN01zWrvd61HFSvNn8eCX_!!2617920728.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/2617920728/O1CN01gFzOau1HFSvRWLfgf_!!2617920728.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/2617920728/O1CN01E5DDab1HFSvK7xHxb_!!2617920728.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/2617920728/O1CN01423xOn1HFSvLRUeJZ_!!2617920728.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/2617920728/O1CN01tsGtAl1HFSvLRTNLW_!!2617920728.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/2617920728/O1CN01ZIavm91HFSvNjbJTY_!!2617920728.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 67,
+                "name": "情人节99朵临沂鲜花速递红玫瑰香槟花束兰山罗庄河东同城送花店",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/2443772649/O1CN01bhrkjH1VRHizKFlyT_!!2443772649.jpg_460x460Q90.jpg_.webp",
+                "price": "69.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd2.alicdn.com/imgextra/i3/2443772649/O1CN01bhrkjH1VRHizKFlyT_!!2443772649.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/2443772649/O1CN01zvAszf1VRHj3pdDyg_!!2443772649.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/2443772649/O1CN01MRfSFn1VRHj0dwsE6_!!2443772649.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd3.alicdn.com/imgextra/i3/2443772649/O1CN01M2xOUO1VRHizXgF0G_!!2443772649.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/2443772649/O1CN01u5TrfU1VRHj1JCLxy_!!2443772649.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/2443772649/O1CN01CtNk6H1VRHiwAwGj2_!!2443772649.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/2443772649/O1CN01DGusAG1VRHitjuIaH_!!2443772649.png"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2443772649/O1CN01n9mcDk1VRHj1MFYD7_!!2443772649.png"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/2443772649/O1CN01uAbgS81VRHj3rtnn6_!!2443772649.png"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2443772649/O1CN01nDkkOr1VRHj0ZaizB_!!2443772649.png"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/2443772649/O1CN013cOZkz1VRHj1MHYx0_!!2443772649.png"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/2443772649/O1CN01YMwPI51VRHj2blusJ_!!2443772649.png"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/2443772649/O1CN01wXh0LO1VRHj2VhM59_!!2443772649.png"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/2443772649/O1CN01iVPYdW1VRHj0ZdTRT_!!2443772649.png"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/2443772649/O1CN013r7slz1VRHizFrH3v_!!2443772649.png"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/2443772649/O1CN01lYsEoA1VRHj3Ja6q9_!!2443772649.png"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i3/2443772649/O1CN01KAsbnw1VRHj3Jb7DV_!!2443772649.png"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/2443772649/O1CN01V3lyNl1VRHj4jU9pE_!!2443772649.png"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i4/2443772649/O1CN01bw8Dj91VRHitjstIu_!!2443772649.png"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i4/2443772649/O1CN01YvoE2P1VRHizXepov_!!2443772649.png"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i3/2443772649/O1CN01LSskZF1VRHj0ZdsPT_!!2443772649.png"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i2/2443772649/O1CN01jLmoM91VRHj1MH1iq_!!2443772649.png"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i1/2443772649/O1CN01tkaa071VRHj1EwVmf_!!2443772649.png"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i3/2443772649/O1CN01vhRogw1VRHj1MGl7d_!!2443772649.png"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i1/2443772649/O1CN01fUZ73i1VRHiyKv4ja_!!2443772649.png"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i1/2443772649/O1CN01nksrGr1VRHj2bnWgW_!!2443772649.png"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i4/2443772649/O1CN01itwmsn1VRHj2VhpCy_!!2443772649.png"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i3/2443772649/O1CN01r4drAX1VRHj4GTtQL_!!2443772649.png"
+                    },
+                    {
+                        "id": 24,
+                        "url": "https://img.alicdn.com/imgextra/i3/2443772649/O1CN01Iql9Qb1VRHj3rsb2t_!!2443772649.png"
+                    },
+                    {
+                        "id": 25,
+                        "url": "https://img.alicdn.com/imgextra/i4/2443772649/O1CN01bZAld01VRHj3Jbr0U_!!2443772649.png"
+                    }
+                ]
+            },
+            {
+                "id": 68,
+                "name": "玫瑰花束向日葵鲜花速递成都合肥武汉南京广州同城生日配送花店",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/2043333150/O1CN01kEOW3P1Z8kBM5n4IW_!!2043333150.jpg_460x460Q90.jpg_.webp",
+                "price": "88.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd4.alicdn.com/imgextra/i3/2043333150/O1CN01kEOW3P1Z8kBM5n4IW_!!2043333150.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd3.alicdn.com/imgextra/i3/2043333150/O1CN01CoNJZG1Z8kBSCEiVX_!!2043333150.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/2043333150/O1CN015zeUql1Z8kBLpChWE_!!2043333150.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/2043333150/O1CN01nKvVLu1Z8kBO0amqj_!!2043333150.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/2043333150/O1CN01ziJive1Z8kBPiQetk_!!2043333150.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/2043333150/O1CN019PBjpS1Z8kBOImWRc_!!2043333150.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2043333150/O1CN01l3Mbcg1Z8kBRlKDid_!!2043333150.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/2043333150/O1CN01TIfYKV1Z8kBQcecVW_!!2043333150.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2043333150/O1CN01Nbt7wN1Z8kBGCeCj6_!!2043333150.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 69,
+                "name": "抖音同款网红零食花束鲜花速递同城北京杭州广州上海深圳成都配送",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/1698870213/O1CN01YodPNY1DRaw7YFRQw_!!1698870213.jpg_460x460Q90.jpg_.webp",
+                "price": "376.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd1.alicdn.com/imgextra/i3/1698870213/O1CN01YodPNY1DRaw7YFRQw_!!1698870213.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/1698870213/O1CN01C6Mpp81DRaw2ZNek7_!!1698870213.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/1698870213/O1CN01u0d5zb1DRaw8IpMYd_!!1698870213.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/1698870213/O1CN01zFal391DRaw5ykz5q_!!1698870213.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/1698870213/O1CN01KULfb81DRaw5hp3VD_!!1698870213.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/1698870213/O1CN01EqHpRF1DRaw8qFOyk_!!1698870213.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/1698870213/O1CN01LgQmGp1DRaw7YFuZ2_!!1698870213.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/1698870213/O1CN01jsuNQW1DRaw3oDSCZ_!!1698870213.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/1698870213/O1CN01icoJOD1DRaw5yjqPa_!!1698870213.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/1698870213/O1CN010LGxwp1DRaw5TSzqp_!!1698870213.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/1698870213/O1CN015uHcn31DRaw3XftyE_!!1698870213.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/1698870213/O1CN01HiAZIx1DRaw7Ppw5o_!!1698870213.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 70,
+                "name": "99朵蓝玫瑰花束生日蓝色妖姬鲜花速递成都合肥同城郑州花店送花",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/37404403/O1CN01Do2n821iOcPTgOrxa_!!37404403.jpg_460x460Q90.jpg_.webp",
+                "price": "177.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/37404403/O1CN01Do2n821iOcPTgOrxa_!!37404403.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/37404403/O1CN01ljvzfW1iOcPVCkZiI_!!37404403.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/37404403/O1CN01xeTev71iOcPVUqfNE_!!37404403.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd3.alicdn.com/imgextra/i3/37404403/O1CN01XobJ141iOcPWpEvhU_!!37404403.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://gd3.alicdn.com/imgextra/i3/37404403/O1CN01RoFVED1iOcPULI8ua_!!37404403.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/37404403/O1CN01pBzKJm1iOcPULH4LY_!!37404403.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/37404403/O1CN01ivJOFe1iOcPXSlH6l_!!37404403.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/37404403/O1CN01XNJx0V1iOcPTgN7t4_!!37404403.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/37404403/O1CN01RxPWHn1iOcPULHTHX_!!37404403.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/37404403/O1CN01ikiXw41iOcPULJDOo_!!37404403.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/37404403/O1CN01tnvWJy1iOcPUK7M3T_!!37404403.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}
